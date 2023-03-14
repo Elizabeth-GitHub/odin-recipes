@@ -1,0 +1,35 @@
+body {
+    font-family: 'Roboto', Arial; 
+}
+
+.main{
+    text-align: center;
+}
+
+.main-header {
+    font-weight: 800;
+
+}
+
+.main-photo {
+    width: 400px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.credentials {
+    font-size: x-small;
+}
+
+header {
+    margin-bottom: 1rem;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    padding: 0.5rem 0;
+    background-color: antiquewhite;
+    border-bottom: 2px #faebd7;
+    color: #75490f;
+    font-style: italic;
+}
